@@ -16,4 +16,4 @@ tabulate==0.8.2
 urllib3==1.26.5
 WeasyPrint==51
 webdriver-manager==2.3.0
-Werkzeug==1.0.0
+Werkzeug==2.2.3
